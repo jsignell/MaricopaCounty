@@ -1,0 +1,13 @@
+name: maricopa
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=2.7
+- matplotlib
+- jupyter
+- pandas
+- xarray
+- numpy
+- mechanize
+
